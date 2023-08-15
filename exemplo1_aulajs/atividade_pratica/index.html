@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Funcionários</title>
+</head>
+
+<body>
+  <h1>Informações do Funcionário para ATV Prática</h1>
+  <form id="formulario">
+    <label for="nome">Nome:</label>
+    <input type="text" id="nome" required><br>
+
+    <label for="idade">Idade:</label>
+    <input type="number" id="idade" required><br>
+    
+    <label for="cargo">Cargo:</label>
+    <input type="text" id="cargo" required><br> <br>
+    <div id="departamento" style="display: none;">
+      <label for="depto">Departamento:</label>
+      <input type="text" id="depto" required><br>
+    </div>
+    <div id="linguagem" style="display: none;">
+      <label for="ling">Linguagem de Programação:</label>
+      <input type="text" id="ling" required><br>
+    </div>
+    <button type="submit">Criar Funcionário</button>
+  </form>
+  <hr>
+  <h3>Informações do Funcionário</h3>
+  <div id="resultado"></div>
+
+  <script src="atividade_exception.js"></script>
+</body>
+<hr>
+<footer>
+  Desenvolvido por Bruno Vinicius - 2023
+</footer>
+
+</html>

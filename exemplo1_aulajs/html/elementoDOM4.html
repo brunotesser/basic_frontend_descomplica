@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exercicio Elemento DOM 4</title>
+</head>
+
+<body>
+  <h1> Usando o SELETOR do DOM </h1>
+
+  <ul>
+    <li>Java</li>
+    <li>Python</li>
+    <li>NodeJS</li>
+
+  </ul>
+  <div id="conteudo" name="divconteudo" class="mensagem">
+
+
+
+  </div>
+
+  <div name="divconteudo" class="mensagem">
+
+
+  </div>
+
+  <div name="divconteudo" class="mensagem">
+
+
+  </div>
+
+  <span id="novospan" class="novo"> Testo no SPAN </span>
+
+
+</body>
+
+<script>
+  elemento0 = document.getElementsByTagName('li')[0];
+  elemento0.style.color = 'blue'
+
+  elemento1 = document.getElementsByTagName('li')[1];
+  elemento1.style.background = 'red'
+
+  element2 = document.getElementsByTagName('li')[2];
+  element2.innerText = "SpringBoot"
+
+  elementDiv = document.getElementById("conteudo")
+  elementDiv.innerHTML = "<p> Estou colocando a tag para dentro da div </p>"
+
+  elementDivName = document.getElementsByName("divconteudo")[1];
+  elementDivName.style.color = "blue"
+  elementDivName.innerText = "Estou colocando um texto"
+
+  elementoDivClass = document.getElementsByClassName("mensagem")[2];
+  elementoDivClass.innerHTML = "<p> Estou colocando a tag para dentro da div </p>"
+
+  elementoSpanClass = document.querySelector("span.novo");
+  elementoSpanClass.style.color = "yellow"
+
+
+  
+
+
+
+
+
+
+</script>
+
+</html>
