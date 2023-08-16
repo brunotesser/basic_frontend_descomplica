@@ -1,3 +1,190 @@
-SUMARIO
+"SUMARIO"
 > UX é User Experience
-> 
+> UX é tudo relacionado ao produto ou serviço
+> UI é User Interface, é aquilo que o usuário interage, pode ser diversas dentro de uma Experience
+> Outro exemplo, experiencia é a fome, a espera, a entrega, e a UI é a interface digital o app para pedir comida.
+> UX DESIGN é talvez a pessoa que ele desenhe a interface e experiencia
+> UX RESEARCH pesquisa e mais pesquisas para desenhar aquela experiencia (gosto disso)
+> UX WRITING texto, frases.. para aquela área (gosto disso)
+> UX Metrics definir o que e como vamos medir e acompanhar, medições.
+> UX Strategy são as estratégia e planejamento
+> UI design é a pessoa que desenha tela, interface, layout, design e que trabalha com Front-end também 
+> As entegas pode ser muitas: protótipos, jornadas do usuario, wireframes, personas.
+> Algumas outras são relatórios, diagramas, apresentações, etc...
+
+"UI - User Interface"
+> Designer não entrega apenas a animação e também relatórios, protótipos, layout, etc.
+> Algumas partes da interface digital: imagnes, botoes, menu, campos, icones, textos, links, cabeçalho, rodapé, etc.
+> E sempre tem alguma padronização e a consistencia visual (mesma cores)
+> A responsividade e dispositivos é saber colocar e encaixar tudo para pessoas que acessa em outros dispositivos
+> Algumas responsividade: fixo (não muda é o mesmo), fluido (definido por %), adptativo (fixos e proximo da tela exibida),
+responsivo (responde a resolução, tamanho e orientação da tela)
+> O que nos ajuda é o GRID (grades como colunas, larguras)
+> O Design System é componentes usados de forma consistente em todo produto, como se fosse uma paleta com cores, fontes, icones, etc
+
+"CONHECIMENTOS IMPORTANTES"
+> A identidade visual vai proporcionar a unidade, faz parte de uma coisa só.
+> Arquitetura de Informação: importante para saber o que e onde o usuario vai passar reduzindo custo, mais trabalho no futuro, e satisfação.
+A organização é o ponto mais importante desta Arquitetura, iguais categorias.
+> Usabilidade: Eficacia é atingiir um objetivo, eficiencia é a melhor forma de atingir um objetivo. Então seria medir um produto, usuario e contexto
+especifico
+> Heurísticas: É uma lista de hacks para desenhar algo com mais usabilidade.
+> Acessibilidade: no Brasil existe mais de 45 milhões de pessoas PCD, inclusão é um direito. Alguns deles: daltonico, baixa visão, surdez
+deficiencia cognitivas, restrição de habilidades motoras.
+
+"HEURÍSTICAS DE NILSEN"
+1- Manter os usuários informados sobre o que está acontecendo
+2- Falar as palavras do usuário (não necessario uso de termos tecnicos para seu publico)
+3- Dar controle e liberdade para o usuario (não obrigar)
+4- Manter consistencia (Design System)
+5- Eliminar as chances de erros (sempre eliminar frustrações)
+6- Não contar com memória dos usuarios (ajude com mecanismos)
+7- Atender iniciantes e avançados (saiba que os 2 vão usar)
+8- Só apresentar o que é importante (não traga coisas sem sentido)
+9-  Ajude usuario a recuperar de erro (previnir se acontecer algum erro)
+10- Ofereça ajuda! (FAQ)
+
+"METODOLOGIAS DE DESIGN"
+> Proceso de desgin é um processo criativo como um processo de solução de problemas.
+> DUPLO DIAMANTE: Partimos de um problema > Descoberta > Definição > Desenvolvimento > Deliver > solução
+> IDEO.org: Inspiraçãoo > Ideias > Implementação
+> Padrão dessas metodologia:  Entender o problema > Captar informações > Captar ideias > Validar > Ciclos que repete > Times 
+
+"DESIGN SPRINT" 
+> Livro JAKE KNAPP, usado no Google
+> Nos dias 1: Mapear, 2: Esboçar, 3: Decidir, 4: Prototipar, 5: testar
+
+"DESIGN THINKING"
+> Empatia > Definição > Ideação > Prototipação > Teste
+> Empatia (ideias, concorrentes, pesquisar)
+> Definição (Decidir qual problema vamos atacar)
+> Ideação (alguns insights)
+> Prototipação (saber se aquela ideia é boa, criando e no próximo vai testar)
+> Algumas empresas que utilizam: Natura, Havainas, UberEats, Ambev, Samsung, Netflix, Google
+> Aplicar pois conhecendo os usuarios e o contexto, pesquisa constantes, validar antes de implementar, chances de inovação e integração do Time
+
+"FASES DE EMPATIA E DEFINIÇÃO"
+> Pesquisar qualitativas e quantitativas: Quannti é informações mais estatisticos de números e quantidade, já qualitativa com respostas do usuario
+(gosto, prefiro, acho, porquê)
+> Entrevista com USER: serve para entender as emoções, motivações e comportamentos, entender a real personas (Oque, como, porque, quando, onde,
+onde, com quem, para que?)
+> Personas e Jornadas: pessoas ficticia trazendo caracteristicas que coletamos dos usuarios reais (genero, idade, esoclar, tec, renda, objetivo
+expectativa, frase que a defina). Quais são suas dores? Necessidades? Motivação?
+
+"BENCHMARK"
+> Feita no MKT também, onde olhamos para os concorrentes e entender o que estão fazendo e dando certo.
+> MOODBOARD: representação dos achados, inspiração, conexão, imagens, palavras e teste.
+> Técnica de Criatividade de 3 a 8 pessoas (post-it): escrever coisas positivas que leve para frente (isso dentro do produto) depois
+coisas que nos impedem de seguir
+
+"FASE DE PROTOTIPAÇÃO"
+> É quando criamos e testamos para ver se funciona ou não.
+> É uma atividade ciclica onde chegamos em um resultado esperado.
+> As mais usadas são: papel - lápis, quadro branco, papelão, PowerPoint, Excel.
+> Ferramentas modernas que as pessoas usam: FIGMA e ADOBE XD
+> Quando for testar, tenta buscar por templates prontos para ir mexendo e entendendo.
+> Entrega do HANDOFF , onde a pessoa de front-end vai receber para programar, aqui vai ter: Fonte, css, grid, texto, animação.
+
+"FASE DE TESTE"
+> Testar é conseguir errar mais rápido e também mais barato para fazer ajustes
+> Vamos descobrir problema o quanto antes, gastar menos dinheiro com retrabalho, ter mais segurança noo que vai ser lançado, 
+se organizar para mudanças futuras.
+> TESTE DE USABILIIDADE: serve para testar solução de eficacia, eficiencia e satisfação. (Se apresentar e mostrar como vai ser,
+peça autorização e seja honesto em tudo, faça perguntas a respeito do usuário e do tema, abra a tela inicial e explica como funciona)
+> Depois do teste: Reunião de alinhamento o que anotou no teste, fazer relatório com os achados
+
+"PRINCIPIOS GESTAO DE PROJETOS"
+> Executar é uma necessidade de qualquer empresa.
+1- Agir com atenção, respeito, diligencia
+2- Ter ambiente de time colaborativo
+3- Focar em valor e beneficio
+4- Engajar com as partes interessadas
+5- Pensamentos sistemico
+6- Influencias, motivar e aprender (liderança)
+7- Customizar
+8- Construir qualidade
+9- Navegar na complexidade e compreender
+10- Otimizar respostas a ameaça e oportunidade, torna-la ótimo para essas coisas
+11- Adotar adaptabilidade e resiliencia
+12- Tornar disponivel a mudanças
+
+"5 DOMINIO DE DESEMPENHO"
+1- Planejamento
+2- Execução
+3- Saber sobre os riscos e preparado para Agir
+4- Proporcionar desenvolvimento do Time
+5- Mensuração, medir que aquilo que foi planejado foi entregado
+
+"GESTAO DE PROJETOS"
+> Stakeholders e time
+> São todas as partes interessadas (Sociedade como todo, comitê que vai avaliar trabalho, time do projeto, patrocinador)
+> PREMISSA: supõe como verdadeiro no inicio (exemplo ingrediente que vai estar disponivel no local, crescimento vai ser de 80% da empresa)
+> A premissa é importante para criar um orçamento, cronograma e plano de negócios.
+> E isso será um Escopo que vai ser descrição detalhada do trabalho que precisa ser feito.
+
+"GESTAO DE TEMPO, CUSTOS, RISCOS E COMUNICAÇÃO"
+> Considerar os riscos, escopos. Para estimar o trabalho do time conheça a produtividade nesse time.
+> Gráfico de GANTT (tarefas e dias para levar cada coisa)
+> GESTAO DE CUSTO: projeto tem linha de vida e o orçamento é para isso, e tudo isso tem o ROI.
+> GESTAO DE RISCO: risco é algo incerto no futuro, que pode causar um impacto. E existe o negativo que vai dar ruim, e positivo que vai
+trazer oportunidade.
+> COMUNICAÇÃO EFICIENTE: EVITE (O que eu quis dizer... Não sabia... Se soubesse disso antes...), 60% dos problemas adminitrativos é causado
+por uma comunicação ineficaz. Isso acontece por meio de: emoji, e-mail, audio, feedback, dashboard, postura corporal.
+
+"CANVAS DE PROJETO"
+> Canvas é uma tela, times multidisciplinares e ação colaborativas para preencher essa tela. É uma ferramenta ou metodologia,
+são varios tipos de canvas e ajuda visualizar melhor para solucionar problemas, inovações, alinhamento.
+> Perguntas para os projetos (O que será feito? Porque será feito? Onde será feito? Quando será feito? Por quem será feito?)
+(Como será feito? Quanto vai custar?)
+> MODELO DE NEGOCIO: Quem são os clientes? (empresas, pessoas) Como empresa vai ganhar grana? Como a empresa funciona? Produtos, serviço
+para anuncio, assinaturas?
+> EXEMPLOS DE MODELO NEGOCIO: Parcerias, atividades para proposta de valor, recursos, proposta, relacionamento com clientes, canais, segmento...
+>  MODELO DE PROPOSTA DE VALOR: dores, ganhos, tarefas, como seu produto vai impactar e ganhar as tarefas.
+
+"EXECUÇÃO E ENCERRAMENTOS"
+> INICIO: Formalizar o inicio, onde vai estar: beneficios, entregaveis, o que sera entregue, estudo da viabilidade
+> REUNIÃO KICK-OFF: garantir o alinhamento, dar visibilidade para o time, mobilizar e engajar as pessoas, fazer combinados iniciais.
+> LEVAMENTO INICIAIS: dados, estimativas, premiças, insumos, partes interessadas.
+> E usar um CANVAS para ter uma dinamica e artefato para o projeto.
+> Ter uma linha do tempo com alguns marcos principais e entregas.
+> EXECUÇÃO: Ter os 12 principios para recordar, ter os 8 dominios também. Então saber: Gerenciar o cronograma,
+manter a comunicação, documentar os dados, buscar dados, gerenciar orçamentos, acompanhar contratos, desenvolver pessoas, analisar dados.
+> ENCERRAMENTOS: formalização da entrega e validação, liberação dos times, pagamentos. Saber as lições aprendidas: o que repetir proxima vez,
+o que não fazer novamente, perguntar ao time pontos positivos e negativos. Reconhecer esforços, parabenizar, recompensar.
+
+"AGIL e SCRUM"
+> Charles Darwin: Não é o maior, nem mais forte, nem o mais inteligente que sobrevive. É aquele que é mais capaz de se adptar as mudanças.
+> Beneficios de ser AGIL: Saber ser adaptavel, ROI, inovação, reduzir riscos, entregas mais ageis, clientes mais foco e entrega de valor.
+> SCRUM: metodoloogia AFIL de desenvolvimento de software, onde teremos um TIME com responsabilidade especificas, terá encontros,
+os projetos vai ser divididos em ciclos, e teremos uma lista da funcionalidade do projeto, saber o que é mais importante.
+> Papeis e artefatos no SCRUM: Srum Master, PO, Time Scrum.
+> ARTEFATOS: Product backlog, sprint backlog, incrementos. (ProductBacklog, é lista de itens e funcionalidades)
+> Cerimonias do scrum: SRPINT PLANNING é um ciclo, compreender juntos a meta que foi priorizada, SPRINT é receber o feedback e entregar o escopo.
+E todos dias temos a DAILY de 15-20 min, do que você está fazendo e o que a outra pessoa está fazendo (SCRUM MASTER da a palavra,
+começar e terminar)
+
+"PROJETO AGIL"
+> Projeto que tem menos de documentação, quem decide é a organização ele vai começar daquela forma. O projeto visa maximizar sempre o ROI.
+> As pessoas interessadas também existe aqui.
+> PLAENJANDO: Product Backlog (a lista de tudo que a equipe podera realizar ou não, existindo apenas um backlog do produto, é único, onde o PO faz)
+> Parar criar um BACKLOG usando o canvas PBB(product backlog building) que seria: prooblemas, personas, funcionalidade, expectativas, Product
+backlog items.
+> MVP (produto minimo viavel) no planejamento deve ser definido.
+> Histórias do usuario: (Eu enquanto analista preciso verificar os acesso do site de viagem)
+> Algumas outras atividades: Definir tempo do sprint, agendar as cerimonios, treinar o time para SCRUM, contratar pessoa, comunicação com outras
+partes interessadas e avaliar os riscos iniciais para o BACKLOG.
+> Quem participa do projeto ágil? (PO, Scrum Master, Time), é um time autogerenciavel saber o que vai fazer e entregar.
+> SPRINIT PLANNING: time definindo o que vai entregar no tempo estimado e também com sprints.
+> SPRINT: é execução , onde Scrum Master e vai fazer o que for necessario para fazer a coisa acontecer, PO dialogo com o TIME.
+> DAILY: vai ser as soluções para os impedimentos, o que fez e o que não fez.
+> Na entrega: onde vai refinar, detalha, onde o PO vai verificar se o que está entregue está OK, gráfico de produtividade.
+> ENCERRAMENTO: Review, feedback para melhoria do processo também, lições aprendidas, definir o pronto, release se atingiu a meta.
+
+"KANBAN E LEAN"
+> Ler livro Lean Startup (startup enxuta): bom método para boas soluções, resumo: Testar rapido, aprender rapido, errar rapido e não gaster
+tempo e dinheiro.
+> É uma IDEA > que contruir o MVP > que vamos MEDIR DADOS > e aprender para ver se funcionou e voltando para IDEIAS e voltar no Ciclos
+> KANBAN: é esquema de (puxar), onde vamos terminar uma ação e ter proatividade.
+> Temos ações com PARA FAZER, FAZENDO, FEITO. (novo trabalho só pode ser feito e puxado, quando o que está em andamento for finalizado)
+
+"AGILE UX e LEAN UX"
